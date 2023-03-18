@@ -1,3 +1,7 @@
 hello arjun
+<<<<<<< HEAD
 hello arjun what is your todays target
+=======
+what is your name arjun....
+>>>>>>> bd8b99fdd66d035348a53946379d5d46bd99ccf2
 how are you 
